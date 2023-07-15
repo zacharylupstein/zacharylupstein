@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Zach Lupstein
-- 👀 I’m interested in all things javascript, flutter and ruby
 - 📫 How to reach me @zlupstein15
