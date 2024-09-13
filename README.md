@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Zach Lupstein
+👋 Hi, I’m Zach Lupstein
 
